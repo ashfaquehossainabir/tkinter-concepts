@@ -64,5 +64,3 @@ submitButton = Button(window,
 submitButton.pack()
 
 window.mainloop()
-
-# ==> | Continue from 1:18:27 | <==
