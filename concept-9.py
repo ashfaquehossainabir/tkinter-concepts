@@ -1,6 +1,8 @@
 from tkinter import *
 from tkinter import messagebox
 
+# Window Message Box Concept
+
 
 def click():
     # messagebox.showinfo(title="Info message",
@@ -52,5 +54,3 @@ button = Button(window,
 button.pack()
 
 window.mainloop()
-
-# Continue from 1:31:10
