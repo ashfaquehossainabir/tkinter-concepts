@@ -24,5 +24,3 @@ button = Button(window,
 button.pack()
 
 window.mainloop()
-
-# Continue from 1:42:50
