@@ -16,5 +16,3 @@ button = Button(text="Click me!", command=click)
 button.pack()
 
 window.mainloop()
-
-# Continue from 1:37:14
